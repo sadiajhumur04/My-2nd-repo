@@ -1,0 +1,14 @@
+div{
+    background-color: aquamarine;
+    padding: 8px;
+    margin-bottom: 13px;
+}
+p{
+    color: blue;
+    
+    font-style: italic;
+}
+li{
+    color: darkmagenta;
+    text-transform: uppercase;
+}
